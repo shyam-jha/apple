@@ -1,3 +1,7 @@
+#demo (live website)
+
+https://shyam-jha.github.io/music-web/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
