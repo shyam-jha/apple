@@ -1,6 +1,6 @@
-#demo (live website)
+demo (live website)
 
-https://shyam-jha.github.io/music-web/
+https://shyam-jha.github.io/apple/
 
 # React + Vite
 
